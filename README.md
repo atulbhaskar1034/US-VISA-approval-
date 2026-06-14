@@ -334,25 +334,7 @@ ELSE:
 
 ### 6. 🚀 Model Pusher
 
-<!-- ==================== DIAGRAM PLACEHOLDER: MODEL PUSHER ==================== -->
-
-> ### 📌 **Diagram — MODEL PUSHER**
->
-> _Insert your Model Pusher pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│             [ MODEL PUSHER DIAGRAM ]                    │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="2361" height="1294" alt="Image" src="https://github.com/user-attachments/assets/c6959b00-41b2-45ef-9b8d-6e8b51067122" />
 
 **What it does:**
 - Takes the accepted model from the evaluation stage
