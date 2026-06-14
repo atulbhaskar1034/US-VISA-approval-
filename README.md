@@ -99,25 +99,7 @@ The project uses the **EasyVisa** dataset containing US visa application records
 
 ## 📁 Folder Structure
 
-<!-- ==================== DIAGRAM PLACEHOLDER: FOLDER STRUCTURE ==================== -->
-
-> ### 📌 **Diagram — FOLDER STRUCTURE**
->
-> _Insert your folder structure diagram here (e.g., a tree diagram, Mermaid flowchart, or image)._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│              [ FOLDER STRUCTURE DIAGRAM ]                │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="4450" height="2511" alt="Image" src="https://github.com/user-attachments/assets/64bade1e-923e-4152-bc56-956a2e1cd298" />
 
 **Text Reference of the Project Structure:**
 
