@@ -243,25 +243,7 @@ MongoDB → Data Ingestion → Data Validation → Data Transformation → Model
 
 ### 3. 🔄 Data Transformation
 
-<!-- ==================== DIAGRAM PLACEHOLDER: DATA TRANSFORMATION ==================== -->
-
-> ### 📌 **Diagram — DATA TRANSFORMATION**
->
-> _Insert your Data Transformation pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│          [ DATA TRANSFORMATION DIAGRAM ]                │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="5278" height="4464" alt="Image" src="https://github.com/user-attachments/assets/da473c37-6e44-4456-9aa3-803670d108f4" />
 
 **What it does:**
 - **Feature Engineering:** Creates `company_age` feature from `current_year - yr_of_estab`
