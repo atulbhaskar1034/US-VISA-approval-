@@ -272,25 +272,7 @@ MongoDB → Data Ingestion → Data Validation → Data Transformation → Model
 
 ### 4. 🤖 Model Trainer
 
-<!-- ==================== DIAGRAM PLACEHOLDER: MODEL TRAINER ==================== -->
-
-> ### 📌 **Diagram — MODEL TRAINER**
->
-> _Insert your Model Trainer pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│             [ MODEL TRAINER DIAGRAM ]                   │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="6142" height="4323" alt="Image" src="https://github.com/user-attachments/assets/93f6cc4e-eea9-41a8-84aa-b895cc888355" />
 
 **What it does:**
 - Uses **`neuro_mf.ModelFactory`** to automate model selection and hyperparameter tuning
