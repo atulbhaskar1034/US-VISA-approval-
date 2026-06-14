@@ -304,25 +304,7 @@ MongoDB → Data Ingestion → Data Validation → Data Transformation → Model
 
 ### 5. 📊 Model Evaluation
 
-<!-- ==================== DIAGRAM PLACEHOLDER: MODEL EVALUATION ==================== -->
-
-> ### 📌 **Diagram — MODEL EVALUATION**
->
-> _Insert your Model Evaluation pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│           [ MODEL EVALUATION DIAGRAM ]                  │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="5278" height="3429" alt="Image" src="https://github.com/user-attachments/assets/8d8aa158-908d-4bcb-8598-b762dde50f3a" />
 
 **What it does:**
 - Fetches the **currently deployed model** from AWS S3 bucket (`usvisa-model2024`)
