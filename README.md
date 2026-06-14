@@ -219,25 +219,7 @@ MongoDB → Data Ingestion → Data Validation → Data Transformation → Model
 
 ### 2. ✅ Data Validation
 
-<!-- ==================== DIAGRAM PLACEHOLDER: DATA VALIDATION ==================== -->
-
-> ### 📌 **Diagram — DATA VALIDATION**
->
-> _Insert your Data Validation pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│            [ DATA VALIDATION DIAGRAM ]                  │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="4882" height="4359" alt="Image" src="https://github.com/user-attachments/assets/bb8914e0-30f7-4c23-ab6e-4fa13fa4edf5" />
 
 **What it does:**
 - **Column Count Validation** — Checks that the number of columns in train/test data matches the schema definition (`config/schema.yaml`)
