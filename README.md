@@ -192,25 +192,7 @@ MongoDB → Data Ingestion → Data Validation → Data Transformation → Model
 
 ### 1. 📥 Data Ingestion
 
-<!-- ==================== DIAGRAM PLACEHOLDER: DATA INGESTION ==================== -->
-
-> ### 📌 **Diagram — DATA INGESTION**
->
-> _Insert your Data Ingestion pipeline diagram here._
->
-> ⬇️ **PLACEHOLDER** ⬇️
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│             [ DATA INGESTION DIAGRAM ]                  │
-│                                                         │
-│            Insert your diagram/image here               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== END PLACEHOLDER ==================== -->
+<img width="2871" height="1986" alt="Image" src="https://github.com/user-attachments/assets/9ee0ab09-424e-4999-8334-b1f46061c157" />
 
 **What it does:**
 - Connects to **MongoDB Atlas** and exports the `visa_data` collection as a Pandas DataFrame
